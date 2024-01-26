@@ -1,0 +1,13 @@
+.Navbar{
+    padding: 10px 20px;
+    display: flex;
+    justify-content:space-between;
+    background-color: rgb(18, 188, 52);
+    
+
+}
+
+
+li{
+    list-style: none;
+}

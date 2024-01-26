@@ -1,0 +1,35 @@
+.cointainer {
+    height: 50px;
+
+}
+.wrapper {
+    padding: 10px 20px;
+}
+
+.top-wrapper{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+h1 {
+    font-size: 1.25rem;
+    text-decoration: underline coral;
+}
+.mid-wrapper {
+    padding: 30vh;
+    width: 40%;
+    min-width: 200px;
+    margin: auto;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+
+
+
+
+
+

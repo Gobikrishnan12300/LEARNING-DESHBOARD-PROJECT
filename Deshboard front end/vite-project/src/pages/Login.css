@@ -1,0 +1,10 @@
+.image{
+    height: 15%;
+    width:15%
+}
+.login{
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    
+}

@@ -1,0 +1,10 @@
+.box{
+    align-items: center;
+    
+
+}
+.model{
+    border: 2px solid black;
+    padding: 10px;
+    align-items: center;
+}
